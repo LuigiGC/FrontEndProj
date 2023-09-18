@@ -17,11 +17,13 @@ Quem vai publicar?
 R: administrador
 
 
+
 O que vai ter para o visitante? 
 
 
 
 R: Os imoveis com as historias e o mapa, talvez mostrar o valor do imovel,
+
 
 
 Interação usuario plataforma 
@@ -35,7 +37,9 @@ R: O usuario pode comentar em um imovel, se gostou ou etc, curtida e adcionar um
 Foco?
 
 
+
 R: Possiveis interações com patrocinios, avaliaçoes sobre as historias e nao o local em si.
+
 
 
 Conteudo
