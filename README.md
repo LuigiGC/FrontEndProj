@@ -6,11 +6,13 @@
 1-
 
 
+
 R: Feed de noticias ultimos postados primeiro, como um instagram (design) dentro do aplicativo, publicar os ultimos 
 pontos de endereços cadastrados e anuncios de descontos ou cupons de lugares, agendar visitas guiadas e cadastrar com headtag
 
 
 2-Quem vai publicar?
+
 
 
 R: administrador
@@ -19,10 +21,12 @@ R: administrador
 3- O que vai ter para o visitante? 
 
 
+
 R: Os imoveis com as historias e o mapa, talvez mostrar o valor do imovel,
 
 
 4- Interação usuario plataforma 
+
 
 
 R: O usuario pode comentar em um imovel, se gostou ou etc, curtida e adcionar um ponto de interece como favorito e uma parte com seus locais favoritos.
@@ -31,10 +35,12 @@ R: O usuario pode comentar em um imovel, se gostou ou etc, curtida e adcionar um
 5- Foco?
 
 
+
 R: Possiveis interações com patrocinios, avaliaçoes sobre as historias e nao o local em si.
 
 
 6 -
+
 
 
 R: Conteudo voltado ao histrico-cultural recente, como por exemplo onde morou uma celebridade, prédios "simples" que nao se tem uma visibilidade, 
