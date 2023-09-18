@@ -62,11 +62,25 @@ r:quando o aplicativo estiver completo e o proprietario lança-lo
 
 
 O que?
-como?
+r:Um aplicativo com o objetivo de compartilhar informações sobre predios antigos ou estabelecimentos publicos historicos-sociais que nao são tão conhecidos pelo publico em geral
+
+
+
+Como?
+r:atraves de um feed de noticias que vai compartilhar esse tipo de informação sobre o lugar e outras curiosidades junto da opinião de quem ja visitou o local atraves de uma interação
+
+
 quem?
+r:esse aplicativo tem o publico alvo como turistas e/ou moradores da região que tem interesse em conhecer predios com uma historia no rio de janeiro e somente o administrador pode postar sobre esses lugares 
+
 por que?
+r:com o foco em auxiliar turistas que querem conhecer mais o rio de janeiro historicamente
+
 onde?
+r: Aplicativo passeio carioca que atua no rio de janeiro
+
 quando?
+r:quando o aplicativo estiver completo e o proprietario lança-lo
 
 
 
