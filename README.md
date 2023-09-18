@@ -78,7 +78,7 @@ R: Utilizado no site, mobile e etc.
 
 Quando?
 
-R:Quando o usuário vai usar, andando na rua, em casa e etc.
+R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
 
 ●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●                                                        
