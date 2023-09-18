@@ -60,7 +60,7 @@ R: Utilizado no site, mobile e etc.
 
 
 
-+Requisitos não funcionais:
+Requisitos não funcionais:
 Segurança.
 
 Experiência agradável
