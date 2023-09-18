@@ -34,8 +34,9 @@ quando?
 r:quando o aplicativo estiver completo e o proprietario lança-lo
 
 
-
+◈ ━━━━━━━━ ● ━━━━━━━━ ◈
 5W2H
+◈ ━━━━━━━━ ● ━━━━━━━━ ◈
 
 O que?
 R:Um aplicativo com o objetivo de compartilhar informações sobre prédios antigos ou estabelecimentos públicos históricos-sociais que não são tão conhecidos pelo público em geral.
