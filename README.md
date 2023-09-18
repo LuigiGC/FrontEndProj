@@ -34,8 +34,7 @@ um turismo arquitetonico, upload de audio para as estatuas
 
 
 
-Quando?
-r: Quando o aplicativo estiver completo e o proprietario lança-lo
+
 
 ●❯────────────────❮●
  5W2H 
