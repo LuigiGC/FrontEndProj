@@ -57,34 +57,35 @@ R: Com o foco em auxiliar turistas que querem conhecer mais o Rio de Janeiro his
 Onde?
 R: Utilizado no site, mobile e etc.
 
-
-
-
-Requisitos não funcionais:
-Segurança.
-
-Experiência agradável
-
-Performance sustentável.
-
-
-
-
-
-
-
-Requisitos funcionais: 
-
-Postagem sobre locais.
-
-Somente pessoas com funções administradoras podem operar no aplicativo.
-
-Funções básicas de interações.
-
-Uma função parecida com um "Saiba mais".
-
-
 Quando?
 R:Quando o usuário vai usar, andando na rua, em casa e etc.
+
+
+●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●                                                        
+
+
+
+✧Segurança.                                                                            
+
+✧Experiência agradável                                                                  
+
+✧Performance sustentável.
+
+
+
+●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
+
+
+
+✧Postagem sobre locais.
+
+
+✧Somente pessoas com funções administradoras podem operar no aplicativo.
+
+
+✧Funções básicas de interações.
+
+
+✧Uma função parecida com um "Saiba mais".
 
 
