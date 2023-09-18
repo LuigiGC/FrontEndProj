@@ -93,7 +93,7 @@ R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
 ✧Performance sustentável.
 
-
+✧Base feita em React.
 
 ●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
 
@@ -111,7 +111,7 @@ R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 ✧Uma função parecida com um "Saiba mais".
 
 
-✧Base feita em React.
+
 
 
 
