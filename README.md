@@ -1,5 +1,5 @@
 # FrontEndProj
-                                                               ***Resumo da entrevista***
+                                                    ***Resumo da entrevista***
                                                                
 1- feed de noticias ultimos postados primeiro, como um instagram(disign) dentro do aplicativo, publicar os ultimos 
 pontos de endereços cadastrados e anuncios de descontos ou cupons de lugares, agendar visitas guiadas e cadastrar com headtag
