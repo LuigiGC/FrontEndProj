@@ -1,4 +1,4 @@
-# FrontEndProj
+# Projeto Front-End: Passeio Carioca
 
 ●❯────────────────❮● Resumo da entrevista ●❯────────────────❮●
 
