@@ -109,7 +109,7 @@ R:Quando o usuário vai usar, andando na rua, em casa e etc.
 ✧Uma função parecida com um "Saiba mais".
 
 
-✧JavaScript em react.
+✧Base feita em React.
 
 
 
