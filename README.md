@@ -34,3 +34,6 @@ r:quando o aplicativo estiver completo e o proprietario lança-lo
 
 
 
+5W2H
+
+
