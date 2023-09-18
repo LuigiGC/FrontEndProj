@@ -1,6 +1,6 @@
 # FrontEndProj
 
-▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂  Resumo da entrevista ▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂
+▂ ▃ ▄ ▅ ▆ ▇ █ Resumo da entrevista █ ▇ ▆ ▅ ▄ ▃ ▂  
                                                                
 1-
 R: feed de noticias ultimos postados primeiro, como um instagram(disign) dentro do aplicativo, publicar os ultimos 
