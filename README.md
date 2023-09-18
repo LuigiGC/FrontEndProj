@@ -3,7 +3,7 @@
 ●❯────────────────❮● Resumo da entrevista ●❯────────────────❮●
 
                                                                
-1-
+1-Visão Geral
 R: Feed de noticias ultimos postados primeiro, como um instagram (design) dentro do aplicativo, publicar os ultimos 
 pontos de endereços cadastrados e anuncios de descontos ou cupons de lugares, agendar visitas guiadas e cadastrar com headtag
 
