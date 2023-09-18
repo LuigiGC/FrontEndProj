@@ -97,3 +97,16 @@ R:Quando o usuário vai usar, andando na rua, em casa e etc.
 
 ✧JavaScript em react.
 
+
+
+●❯────────────────❮● Referências ●❯────────────────❮●
+
+
+
+✧https://github.com/ibmec-tec/front-end-2-2023-2
+
+
+✧https://www.pontodefusao.com/decoracoes/
+
+
+
