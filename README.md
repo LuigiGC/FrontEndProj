@@ -1,56 +1,10 @@
 # Projeto Front-End: Passeio Carioca
 
-●❯────────────────❮● Resumo da entrevista ●❯────────────────❮●
 
-                                                               
-Visão geral do problema apresentado.
+●❯────────────────❮● Propósito sistema ●❯────────────────❮●
 
-
-R: Feed de noticias ultimos postados primeiro, como um instagram (design) dentro do aplicativo, publicar os ultimos 
-pontos de endereços cadastrados e anuncios de descontos ou cupons de lugares, agendar visitas guiadas.
-
-
-Quem vai publicar?
-
-
-
-R: administrador
-
-
-
-O que vai ter para o visitante? 
-
-
-
-R: Os imoveis com as historias e o mapa, talvez mostrar o valor do imovel,
-
-
-
-Interação usuario plataforma 
-
-
-
-R: O usuario pode comentar em um imovel, se gostou ou etc, curtida e adcionar um ponto de interece como favorito e uma parte com seus locais favoritos.
-
-
-
-Foco?
-
-
-
-R: Possiveis interações com patrocinios, avaliaçoes sobre as historias e nao o local em si.
-
-
-
-Conteudo
-
-
-R: Conteudo voltado ao histrico-cultural recente, como por exemplo onde morou uma celebridade, prédios "simples" que nao se tem uma visibilidade, 
-um turismo arquitetonico, upload de audio para as estatuas
-
-
-
-
+O sistema deve ser capaz de fornecer ao usuario postagens sobre imoveis no Rio de Janeiro, tais imoveis teriam algum tipo de historia não conhecido normalmente pela midia,como um morador famoso, lugar frequentemente visitado por uma celebridade e etc. 
+O sistema terá uma interface parecida com redes sociais atuais como o Instagram.
 
 ●❯────────────────❮●
  5W2H 
@@ -95,20 +49,27 @@ R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
 ✧Base feita em React.
 
+
 ●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
 
 
 
-✧Postagem sobre locais.
+✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
+
+✧O sistema deve possuir botão de curtida na postagem.
+
+✧O sistema deve possuir um sistema de comentários, com avaliações de visitantes. 
+
+✧O sistema deve mostrar as publicações em ordem cronológica (Mais recente primeiro).
+
+✧O sistema deve permitir usuarios de curtir comentarios de outros usuarios.
+
+✧O sistema
 
 
-✧Somente pessoas com funções administradoras podem operar no aplicativo.
 
 
-✧Funções básicas de interações.
 
-
-✧Uma função parecida com um "Saiba mais".
 
 
 
