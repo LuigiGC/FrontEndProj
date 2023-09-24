@@ -64,6 +64,8 @@ R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
 ✧O sistema deve permitir usuarios de curtir comentarios de outros usuarios.
 
+✧O sistema deve "Colorir" o botão de curtida para aviso visual que já foi curtida 
+
 
 
 
