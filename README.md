@@ -36,6 +36,10 @@ Quando?
 
 R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
+Quanto?
+
+R: O tempo estimado pela equipe de desenvolvimento do projeto.
+
 
 ●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●                                                        
 
