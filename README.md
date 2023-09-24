@@ -67,6 +67,9 @@ R: O usuário vai usar quando estiver andando na rua, em casa e etc.
 
 
 
+●❯────────────────❮● Casos de uso ●❯────────────────❮●
+
+
 
 
 
