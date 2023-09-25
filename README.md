@@ -43,20 +43,32 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●                                                        
 
+✧Confiabilidade: o sistema deve operar 24 horas sem apresentar qualquer interrupção não 
+programada de sua atividade
 
+✧Usabilidade: o sistema deve fornecer ao usuário uma interface intuitiva e fácil de usar,
+semelhante ao Instagram para garantir a usabilidade.
 
 ✧Segurança.                                                                            
 
 ✧Experiência agradável                                                                  
 
+✧Compatibilidade: o sistema deve ser compatível com navegadores populares.
+
 ✧Performance sustentável.
+
+✧Desempenho: O sistema deve ser responsivo e capaz de lidar com um grande número 
+de usuários e postagens simultaneamente.
 
 ✧Base feita em React.
 
 
 ●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
 
+✧Pesquisa de Postagens: o sistema deve ter uma barra de pesquisa que permite aos usuários encontrar postagens 
+com base em palavras-chave, localização e data.
 
+✧Exclusão de interações: o sistema deve fornecer aos usuários a opção de excluir suas interações ou editá-las
 
 ✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
 
