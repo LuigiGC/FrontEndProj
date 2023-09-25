@@ -38,39 +38,20 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●
 
-✧Confiabilidade: o sistema deve operar 24 horas sem apresentar qualquer interrupção não programada de sua atividade
+✧O sistema deve operar 24 horas sem apresentar qualquer interrupção não programada de sua atividade
 
-✧Usabilidade: o sistema deve fornecer ao usuário uma interface intuitiva e fácil de usar, semelhante ao Instagram para garantir a usabilidade.
+✧O sistema deve fornecer ao usuário uma interface intuitiva e fácil de usar, semelhante ao Instagram para garantir a usabilidade.
 
-✧Segurança.
+✧O sistema deve ser compatível com navegadores populares.
 
-✧Experiência agradável
-
-✧Compatibilidade: o sistema deve ser compatível com navegadores populares.
-
-✧Performance sustentável.
-
-✧Desempenho: O sistema deve ser responsivo e capaz de lidar com um grande número de usuários e postagens simultaneamente.
+✧O sistema deve ser responsivo e capaz de lidar com um grande número de usuários e postagens simultaneamente.
 
 ✧Base feita em React.
 
 ●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
-
-✧Pesquisa de Postagens: o sistema deve ter uma barra de pesquisa que permite aos usuários encontrar postagens com base em palavras-chave, localização e data.
-
-✧Exclusão de interações: o sistema deve fornecer aos usuários a opção de excluir suas interações ou editá-las
-
 ✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
 
-✧O sistema deve possuir botão de curtida na postagem.
-
-✧O sistema deve possuir um sistema de comentários, com avaliações de visitantes.
-
 ✧O sistema deve mostrar as publicações em ordem cronológica (Mais recente primeiro).
-
-✧O sistema deve permitir usuarios de curtir comentarios de outros usuarios.
-
-✧O sistema deve "Colorir" o botão de curtida para aviso visual que já foi curtida
 
 ●❯────────────────❮● Casos de uso ●❯────────────────❮●
 
@@ -85,18 +66,6 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 *Ator:*O usuário
 
 *Descrição:*O usuário insere critérios de busca, como nome do imovel, localização, palavra-chave, período histórico, etc. O sistema retorna uma lista de prédios históricos que correspondem aos critérios de busca. O usuário seleciona um prédio para visualizar mais detalhes.
-
-***✧Nome:***Adicionar Comentários e Avaliações
-
-*Ator:*O usuário
-
-*Descrição:*O usuário navega para a seção de comentários e avaliações de um determinado edificio histórico. O usuário escreve um comentário e atribui uma avaliação ao prédio. O sistema registra o comentário e a avaliação associada ao prédio.
-
-***✧Nome***:Escolher local de destino
-
-*Ator*: O usuário
-
-*Descrição*: O usuário seleciona o local de destino clicando-no no mapa que irá aparecer assim que abrir o aplicativo.
 
 ●❯────────────────❮● Referências ●❯────────────────❮●
 
