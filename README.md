@@ -121,6 +121,12 @@ O usuário escreve um comentário e atribui uma avaliação ao prédio.
 O sistema registra o comentário e a avaliação associada ao prédio.
 
 
+***✧Nome***:Escolher local de destino
+
+*Ator*: O usuário
+
+*Descrição*: O usuário seleciona o local de destino clicando-no no mapa que irá aparecer assim que abrir o aplicativo.
+
 
 ●❯────────────────❮● Referências ●❯────────────────❮●
 
