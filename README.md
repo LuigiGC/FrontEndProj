@@ -88,12 +88,37 @@ com base em palavras-chave, localização e data.
 ●❯────────────────❮● Casos de uso ●❯────────────────❮●
 
 
+***✧Nome:***Visualizar informações de um imovel histórico postado
 
 
+*Ator:*O usuário
 
 
+*Descrição:*O usuário seleciona um imovel histórico na interface do aplicativo.
+O sistema exibe informações detalhadas sobre o imovel, sua história, arquitetura, fotos e avaliações e comentários
+O sistema registra a visualização para fins estatísticos e de análise.
 
 
+***✧Nome***:Pesquisar imoveis Históricos
+
+
+*Ator:*O usuário
+
+
+*Descrição:*O usuário insere critérios de busca, como nome do imovel, localização, palavra-chave, período histórico, etc.
+O sistema retorna uma lista de prédios históricos que correspondem aos critérios de busca.
+O usuário seleciona um prédio para visualizar mais detalhes.
+
+
+***✧Nome:***Adicionar Comentários e Avaliações
+
+
+*Ator:*O usuário 
+
+
+*Descrição:*O usuário navega para a seção de comentários e avaliações de um determinado edificio histórico.
+O usuário escreve um comentário e atribui uma avaliação ao prédio.
+O sistema registra o comentário e a avaliação associada ao prédio.
 
 
 
