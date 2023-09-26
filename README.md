@@ -40,7 +40,7 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ✧O sistema deve operar 24 horas sem apresentar qualquer interrupção não programada de sua atividade
 
-✧O sistema deve fornecer ao usuário uma interface intuitiva e fácil de usar, semelhante ao Instagram para garantir a usabilidade.
+✧O sistema deve suportar uma interface intuitiva e fácil de usar, semelhante ao Instagram para garantir a usabilidade.
 
 ✧O sistema deve ser compatível com navegadores populares.
 
