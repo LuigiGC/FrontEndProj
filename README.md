@@ -48,10 +48,21 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ✧Base feita em React.
 
+✧O sistema deve ser capaz de suportar imagens em alta resolução
+
+✧O sistema deve ter um estilo atraente e layout que destaque as imagens e histórias.
+
 ●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
+
 ✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
 
+✧O sistema deve permitir a inserção de textos/informações referentes a historia do local postado por parte da equipe do passeio carioca
+
 ✧O sistema deve mostrar as publicações em ordem cronológica (Mais recente primeiro).
+
+✧O sistema deve permitir a rolagem infinita para que os usuários possam carregar automaticamente mais postagens à medida que rolam para baixo.
+
+✧O sistema deve ser capaz de personalizar o conteúdo do feed com base nas preferências e histórico do usuário.
 
 ●❯────────────────❮● Casos de uso ●❯────────────────❮●
 
