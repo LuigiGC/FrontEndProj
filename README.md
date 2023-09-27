@@ -2,11 +2,14 @@
 
 
 
-●❯────────────────❮● Propósito sistema ●❯────────────────❮●
+# Propósito sistema 
+
 
 O sistema deve ser capaz de fornecer ao usuario postagens sobre imoveis no Rio de Janeiro, tais imoveis teriam algum tipo de historia não conhecido normalmente pela midia,como um morador famoso, lugar frequentemente visitado por uma celebridade e etc. O sistema terá uma interface parecida com redes sociais atuais como o Instagram.
 
-●❯────────────────❮● 5W2H ●❯────────────────❮●
+
+# 5W2H
+
 
 O que?
 
@@ -36,7 +39,9 @@ Quanto?
 
 R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
-●❯────────────────❮● Requisitos não funcionais ●❯────────────────❮●
+
+# Requisitos não funcionais
+
 
 ✧O sistema deve operar 24 horas sem apresentar qualquer interrupção não programada de sua atividade
 
@@ -52,7 +57,9 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ✧O sistema deve ter um estilo atraente e layout que destaque as imagens e histórias.
 
-●❯────────────────❮● Requisitos funcionais ●❯────────────────❮●
+
+# Requisitos funcionais
+
 
 ✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
 
@@ -64,22 +71,26 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 ✧O sistema deve ser capaz de personalizar o conteúdo do feed com base nas preferências e histórico do usuário.
 
-●❯────────────────❮● Casos de uso ●❯────────────────❮●
 
-✧Nome:Visualizar informações de um imovel histórico postado
+# Casos de uso
 
-✧Ator:O usuário
+
+***✧Nome:*** Visualizar informações de um imovel histórico postado
+
+
+***✧Ator:*** O usuário
 
   
-✧Descrição:*O usuário seleciona um imovel histórico na interface do aplicativo. O sistema exibe informações detalhadas sobre o imovel, sua história, arquitetura, fotos, avaliações e comentários. O sistema registra a visualização para fins estatísticos e de análise.
+***✧Descrição:*** O usuário seleciona um imovel histórico na interface do aplicativo. O sistema exibe informações detalhadas sobre o imovel, sua história, arquitetura, fotos, avaliações e comentários. O sistema registra a visualização para fins estatísticos e de análise.
 
-✧Pré condições: O usuário deve ter um dispositivo conectado a internet e o aplicativo deve estar baixado no celular e em pleno e corretofuncionamento.
-
-
-✧Pós condições: O sistema exibe informações detalhadas do imóvel e registra a visualização para análise estatística.
+***✧Pré condições:*** O usuário deve ter um dispositivo conectado a internet e o aplicativo deve estar baixado no celular e em pleno e corretofuncionamento.
 
 
-●❯────────────────❮● Referências ●❯────────────────❮●
+***✧Pós condições:*** O sistema exibe informações detalhadas do imóvel e registra a visualização para análise estatística.
+
+
+# Referências
+
 
 ✧https://github.com/ibmec-tec/front-end-2-2023-2
 
