@@ -2,13 +2,13 @@
 
 
 
-# Propósito sistema 
+# ●❯────────❮● Propósito sistema ●❯────────❮●
 
 
 O sistema deve ser capaz de fornecer ao usuario postagens sobre imoveis no Rio de Janeiro, tais imoveis teriam algum tipo de historia não conhecido normalmente pela midia,como um morador famoso, lugar frequentemente visitado por uma celebridade e etc. O sistema terá uma interface parecida com redes sociais atuais como o Instagram.
 
 
-# 5W2H
+# ●❯────────❮● 5W2H ●❯────────❮●
 
 
 O que?
@@ -40,7 +40,7 @@ Quanto?
 R: O tempo estimado pela equipe de desenvolvimento do projeto.
 
 
-# Requisitos não funcionais
+# ●❯────────❮● Requisitos não funcionais ●❯────────❮●
 
 
 ✧O sistema deve operar 24 horas sem apresentar qualquer interrupção não programada de sua atividade
@@ -58,7 +58,7 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 ✧O sistema deve ter um estilo atraente e layout que destaque as imagens e histórias.
 
 
-# Requisitos funcionais
+# ●❯────────❮● Requisitos funcionais ●❯────────❮●
 
 
 ✧O sistema deve permitir postagem sobre locais com foco no objetivo do Passeio Carioca.
@@ -72,7 +72,7 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 ✧O sistema deve ser capaz de personalizar o conteúdo do feed com base nas preferências e histórico do usuário.
 
 
-# Casos de uso
+# ●❯────────❮● Casos de uso ●❯────────❮●
 
 
 ***✧Nome:*** Visualizar informações de um imovel histórico postado
@@ -89,7 +89,7 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 ***✧Pós condições:*** O sistema exibe informações detalhadas do imóvel e registra a visualização para análise estatística.
 
 
-# Referências
+# ●❯───────────❮● Referências ●❯───────────❮●
 
 
 ✧https://github.com/ibmec-tec/front-end-2-2023-2
