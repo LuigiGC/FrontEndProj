@@ -15,5 +15,5 @@ render(
     </Marker>
   </MapContainer>
 )
-
+// Instalar o npm do leaflet
 export default mapa;
