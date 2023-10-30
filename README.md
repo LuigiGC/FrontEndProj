@@ -75,22 +75,6 @@ R: O tempo estimado pela equipe de desenvolvimento do projeto.
 # ●❯──────❮● Casos de uso ●❯──────❮●
 
 
-***✧Nome:*** Visualizar informações de um imovel histórico postado
-
-
-***✧Ator:*** O usuário
-
-  
-***✧Descrição:*** O usuário seleciona um imovel histórico na interface do aplicativo. O sistema exibe informações detalhadas sobre o imovel, sua história, arquitetura, fotos, avaliações e comentários. O sistema registra a visualização para fins estatísticos e de análise.
-
-***✧Pré condições:*** O usuário deve ter um dispositivo conectado a internet e o aplicativo deve estar baixado no celular e em pleno e corretofuncionamento.
-
-
-***✧Pós condições:*** O sistema exibe informações detalhadas do imóvel e registra a visualização para análise estatística.
-
-
-# ●❯───────❮● Referências ●❯───────❮●
-
 
 ✧https://github.com/ibmec-tec/front-end-2-2023-2
 
