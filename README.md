@@ -1,5 +1,11 @@
 # Projeto Front-End: Passeio Carioca
 
+# ●❯──────❮● Site ●❯──────❮●
+https://luigigc.github.io/Front-PC/#/
+
+
+# ●❯──────❮● Repositório do Site ●❯──────❮●
+https://github.com/LuigiGC/Front-PC
 
 
 # ●❯──────❮● Propósito sistema ●❯──────❮●
